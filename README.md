@@ -72,12 +72,4 @@ python exia_bot.py
 
 ---
 
-## Contributing
 
-Pull requests welcome! Please follow Python best practices and keep code style consistent.
-
----
-
-## License
-
-MIT © Your Name
